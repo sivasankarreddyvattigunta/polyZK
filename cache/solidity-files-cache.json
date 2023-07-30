@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspace/solidity_starter/zardkat/contracts/MultiplierVerifier.sol": {
+      "lastModificationDate": 1690689857328,
+      "contentHash": "68135a7da04e1b43c1e8d3f06ec90412",
+      "sourceName": "contracts/MultiplierVerifier.sol",
+      "solcConfig": {
+        "version": "0.6.11",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.11"
+      ],
+      "artifacts": [
+        "Pairing",
+        "Verifier"
+      ]
+    }
+  }
+}
